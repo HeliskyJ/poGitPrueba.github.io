@@ -2,3 +2,8 @@ p{
 	font-size: 16px;
 	font-family: arial black;
 }
+
+h1 {
+  text-align: center;
+  color: red;
+}
